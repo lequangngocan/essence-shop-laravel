@@ -1,5 +1,5 @@
 Hướng dẫn các câu lệnh để chạy project: 
-### composer i
-### php artisan key:generate
-### php artisan config:cache
-### php artisan serve
+### 1. composer i
+### 2. php artisan key:generate
+### 3. php artisan config:cache
+### 3. php artisan serve
